@@ -6,6 +6,7 @@
 fn main(){
 
     println!("Hello World");
+    println!("Added this as excersice")
 }
 
 
